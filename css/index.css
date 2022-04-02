@@ -1,0 +1,33 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 14px;
+    font-family: "Arial",sans-serif;
+}
+h1{
+    font-family: "Times New Roman",serif;
+    font-size: 28px;
+    color: limegreen;
+}
+p{
+    text-align: justify;
+}
+#citacaoBloco{
+    margin-left: 60px;
+}
+#specialBox{
+border: 3px solid limegreen;
+padding: 10px;
+background-image: url("../imagens/fundo.png");
+}
+h2{
+    font-family: "Times New Roman",serif;
+    font-size: 22px;
+    color: limegreen;
+}
+img{
+    width: 300px;
+    border: 8px solid limegreen;
+    margin: auto;
+    display: block;
+}
